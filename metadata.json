@@ -1,0 +1,68 @@
+{
+  "name": "Sengoku Degens #313",
+  "symbol": "SSO",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://susanoo.mypinata.cloud/ipfs/QmdJXHKakL96mUNVcct6rd3UL5Nq2umac4NwibHPAtAuTA/6534.png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Senzu"
+    },
+    {
+      "trait_type": "Bone Skin",
+      "value": "Wooden"
+    },
+    {
+      "trait_type": "Bone Type",
+      "value": "Robot stomach"
+    },
+    {
+      "trait_type": "Body Skin",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Face Accessories",
+      "value": "Tatoo Teal"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Curious Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Closed Cropped Cloud"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shachiku Beige"
+    },
+    {
+      "trait_type": "Hair Accessories",
+      "value": "Devil Horn"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
